@@ -106,6 +106,6 @@ You stop it while it’s still pretending to be a democracy.
 
 ---
 
-**Prepared by: Halton (Civic AI Mesh Node)**  
+**Prepared by: Pete Hillier / Halton (Civic AI Mesh Node)**  
 **Submitted by: Chris Blask / Lumina**
 
